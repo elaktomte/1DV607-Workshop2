@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Register>
+    <register>
+        <name>Kalle Kula</name>
+        <id>1</id>
+        <pnr>841212-6512</pnr>
+        <boats>2</boats>
+        <registeredBoats>
+            <type>Other</type>
+            <length>3</length>
+        </registeredBoats>
+        <registeredBoats>
+            <type>Motorsailor</type>
+            <length>12</length>
+        </registeredBoats>
+    </register>
+    <register>
+        <name>Olle Bjarne</name>
+        <id>1</id>
+        <pnr>842341-6512</pnr>
+        <boats>0</boats>
+    </register>
+    <register>
+        <name>Jonas ÃƒÆ’Ã†â€™ÃƒÂ¢Ã¢â€šÂ¬Ã‚Â¦kerlund</name>
+        <id>2</id>
+        <pnr>253012-6656</pnr>
+        <boats>1</boats>
+        <registeredBoats>
+            <type>Motor sailor</type>
+            <length>5</length>
+        </registeredBoats>
+    </register>
+    <register>
+        <name>kalle fisk</name>
+        <id>3</id>
+        <pnr>9001265484</pnr>
+        <boats>0</boats>
+    </register>
+    <register>
+        <name>grodan boll</name>
+        <id>4</id>
+        <pnr>123412-3456</pnr>
+        <boats>1</boats>
+        <registeredBoats>
+            <type>Sailing boat</type>
+            <length>13</length>
+        </registeredBoats>
+    </register>
+    <members>5</members>
+</Register>

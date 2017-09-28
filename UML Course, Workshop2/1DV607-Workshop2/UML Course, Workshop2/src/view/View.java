@@ -63,11 +63,4 @@ public class View {
 		return choice;
 		
 	}
-	public int editBoatMenu(){
-		System.out.println("1. Change type");
-		System.out.println("2. Change length");
-		System.out.println("0. Return to previous menu");
-		int choice = sc.nextInt();
-		return choice;
-	}
 }
