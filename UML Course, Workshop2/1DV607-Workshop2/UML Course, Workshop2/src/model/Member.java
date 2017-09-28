@@ -54,7 +54,7 @@ public class Member {
 	public int getBoats(){
 		return this.boats;
 	}
-	public ArrayList<Boat> getRegisteredBoats(){		//ArrayList to keep track of the members boats.
+	public ArrayList<Boat> getRegisteredBoats(){
 		return this.registeredBoats;
 	}
 	
