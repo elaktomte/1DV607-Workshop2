@@ -274,7 +274,6 @@ public class Program {
 	public static Register loadRegister() throws FileNotFoundException, JAXBException{
 		JAXBContext context = JAXBContext.newInstance(Register.class);
 		Unmarshaller um = context.createUnmarshaller();
-		//Register reg = (Register) um.unmarshal(Program.class.getResourceAsStream("src/register.xml"));
 		Register reg = (Register) um.unmarshal(file);
 
 		return reg;
