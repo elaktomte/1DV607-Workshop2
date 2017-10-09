@@ -49,6 +49,7 @@ public class View {
 	public int removeMemberMenu(){
 		System.out.println("Enter the id of the member you want to remove.");
 		System.out.println("Write 000 to return to the main menu.");
+		
 		int choice = sc.nextInt();
 		
 		return choice;
