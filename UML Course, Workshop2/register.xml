@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Register>
+    <register>
+        <name>KAlle</name>
+        <id>0</id>
+        <pnr>25151</pnr>
+        <boats>0</boats>
+    </register>
+    <members>1</members>
+    <memberid>1</memberid>
+</Register>
