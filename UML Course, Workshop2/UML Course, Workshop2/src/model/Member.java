@@ -66,6 +66,11 @@ public class Member {
 		registeredBoats.remove(i);
 		boats--;
 	}
+	public void printBoatList(){
+		for (int i = 0; i<registeredBoats.size(); i++){
+			System.out.println(i+"  Type: "+registeredBoats.get(i).getType() +"  "+ "Length: "+ registeredBoats.get(i).getLength());
+		}
+	}
 	
 }
 
